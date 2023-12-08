@@ -22,12 +22,12 @@ console.log("This is my favorite game:", myFavoriteGame);
 
 if (true) {
   let myFavDrink = "cafe latte";
+  console.log(myFavDrink);
   var mySecondFavDrink = "Tea";
   console.log(mySecondFavDrink);
 }
 
 // console.log(myFavoriteDrink)；
-console.log(mySecondFavDrink);
 
 // fist name
 // last name
